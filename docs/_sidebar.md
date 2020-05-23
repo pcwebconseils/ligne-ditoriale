@@ -1,6 +1,6 @@
-- Basics
-  - [Overview](basics/overview.md)
-    - [Sub Topic](basics/requirements/sub-topic.md)
+- Les bases
+  - [Les moteurs de recherche](basics/overview.md)
+    - [spécial Google](basics/requirements/sub-topic.md)
   - [Installation](basics/installation.md)
 - Intermediate
   - [Topic 1](intermediate/topics-1.md)
