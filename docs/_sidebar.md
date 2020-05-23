@@ -1,4 +1,4 @@
-- Les bases
+- Basics
   - [Les moteurs de recherche](basics/overview.md)
     - [spécial Google](basics/requirements/sub-topic.md)
   - [Installation](basics/installation.md)
