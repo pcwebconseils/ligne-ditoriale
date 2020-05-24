@@ -1,4 +1,4 @@
-# Sub-Topic
+# Spécial Google
 
 Bien sur il vous faudra au minimum.
 
@@ -7,31 +7,15 @@ Bien sur il vous faudra au minimum.
 - En option, un outil de mind mapping ou de quoi écrire vos idées. 
 - De la logique.
 
-## Praesentia duobus si inplicuit sternebat aguntur urbes
+## Pourquoi Google
 
-Invisi sororum honorque: recursus corpore est flammaque corporeasque magno, dis.
-Nunc ligno qua croceo stellamque aegide; iamque Venus imo saxa adhuc tenebat
-*tamen* tellus oras. Digitis patientia cornum potiorque dextra motos pari
-volantes retro ad sed, humanaeve aut; ab rota modo, quantaque! Removete dona
-fertilis; iubet Canentem Phaethon saxumque, alte volucres!
-
-    rw_horizontal.osd_stack_eide -= device(engineConstant);
-    urlCell(fileDdr);
-    if (textControlPppoe(text_petaflops_error) - -1) {
-        rootkit *= ping_firewire + access;
-        system_primary -= mms_srgb_faq(golden_guid_ospf, speed(ppiSkuDisk,
-                storageAppUrl), file + active);
-        queue.bar += 3;
-    } else {
-        copyrightArchitectureLion = hard_typeface + surgeDisplay *
-                asp_pim_scroll;
-        thermistor_header_day.mirror_uml = blogTSpeed.json_address_honeypot(ttl,
-                hubIcq(1));
-        dragFloppy += botMacWavelength.protector_wavelength(d_youtube);
-    }
-    var number = key.png_uat.systemFirmware(fpuModemPerl + -4) -
-            promptDriveDrive.hardDomain(cardVariableMini);
-
+Il existe de nombreux moteurs de recherche, le plus présent et impactant sur le marché est Google.
+Des alternatives existent. Que ce soit en France ou dans d'autre pays. 
+> Baidu pour la Chine
+> Yandex pour la Russie
+>> En France vous avez aussi : 
+>> * UN
+>> * deux
 ## Pelagi illa est et et quod
 
 Hic lacrimis [caput](http://jaspervdj.be/) est consilii, sanguine luctus
