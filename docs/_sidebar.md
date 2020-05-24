@@ -7,9 +7,11 @@
   - [La liste des affaires](intermediate/topics-2.md)
   - [Les renseignements](intermediate/topics-3.md)
   - [Les réservations](intermediate/topics-4.md)
-- Avancé
+- Optimiser et suivre son avancée.
   - [Préparation en détails](advanced/adv-topic-1.md)
   - [L'intêret](advanced/adv-topic-2.md)
   - [La faisabilité](advanced/adv-topic-3.md)
-- **Project Documentation**
+- **Liens utiles**
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
+  - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
+
