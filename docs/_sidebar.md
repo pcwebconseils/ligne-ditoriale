@@ -1,14 +1,15 @@
 - Introduction
-  - [Les moteurs de recherche](basics/overview.md)
+  - [Début du voyage](basics/overview.md)
     - [spécial Google](basics/requirements/sub-topic.md)
   - [Installation](basics/installation.md)
-- Intermediate
-  - [Part one](intermediate/topics-1.md)
-  - [Topic 2](intermediate/topics-2.md)
-  - [Topic 3](intermediate/topics-3.md)
-  - [Topic 4](intermediate/topics-4.md)
+- Un voyage se prépare.
+  - [A mettre dans le sac](intermediate/topics-1.md)
+  - [La liste des affaires](intermediate/topics-2.md)
+  - [Les renseignements](intermediate/topics-3.md)
+  - [Les réservations](intermediate/topics-4.md)
 - Avancé
-  - [Choix d'un mot clé](advanced/adv-topic-1.md)
-  - [Topic 2](advanced/adv-topic-2.md)
+  - [Préparation en détails](advanced/adv-topic-1.md)
+  - [L'intêret](advanced/adv-topic-2.md)
+  - [La faisabilité](advanced/adv-topic-3.md)
 - **Project Documentation**
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)

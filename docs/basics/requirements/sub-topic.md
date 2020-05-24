@@ -1,12 +1,11 @@
 # Sub-Topic
 
-Lorem markdownum penna; aras cetera revocatus quidem frigus in. Ut natum
-surdaeque *quid*. Volandi viam iter fugae et hic quod quid, opus pete Phaethusa.
+Bien sur il vous faudra au minimum.
 
-- Laevum ritusque
-- Ponat dea fuit mollitaque
-- Saepe tempora miserrima late duxerat quoque coniugialia
-- Corpore sua iam reversurum agros visa peregrina
+- Un ordinateur, ou un smartphone
+- Une connexion internet
+- En option, un outil de mind mapping ou de quoi écrire vos idées. 
+- De la logique.
 
 ## Praesentia duobus si inplicuit sternebat aguntur urbes
 
