@@ -1,6 +1,6 @@
 - Introduction
-  - [Début du voyage](basics/overview.md)
-    - [spécial Google](basics/requirements/sub-topic.md)
+  - [Un peu d'histoire](basics/overview.md)
+  - [spécial Google](basics/requirements/sub-topic.md)
   - [Installation](basics/installation.md)
 - Un voyage se prépare.
   - [A mettre dans le sac](intermediate/topics-1.md)
@@ -11,7 +11,9 @@
   - [Préparation en détails](advanced/adv-topic-1.md)
   - [L'intêret](advanced/adv-topic-2.md)
   - [La faisabilité](advanced/adv-topic-3.md)
+    - [La faisabilité](advanced/adv-topic-3.md)
 - **Liens utiles**
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
+  - [Abondance](https://www.abondance.com/)
+  - [Esquimoz](https://www.eskimoz.fr/)
+  - [Search Engine Land](https://searchengineland.com/)
 

@@ -30,7 +30,7 @@
     window.$docsify = {
       // GENERAL SETTINGS
       // -----------------------------------------------------------------
-      name: 'Documentation technique de référencement',
+      name: 'Documentation sur le référencement',
       // repo: 'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/',
       homepage: '/basics/overview.md',
       loadSidebar: true,
@@ -76,23 +76,3 @@
 
 </body>
 </html>
-
-function (hook, vm) {
-  hook.beforeEach(function (html) {
-    if (/githubusercontent\.com/.test(vm.route.file)) {
-      url = vm.route.file
-        .replace('raw.githubusercontent.com', 'github.com')
-        .replace(/\/master/, '/blob/master')
-    } else {
-      url = 'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/tree/master/docs/' + vm.route.file
-    }
-    var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
-
-    // Adjust GitHub displayable image URL format to also work in Docsify
-    html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
-
-    return editHtml
-      + html
-      + '\n\n----\n\n'
-      + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal;">Powered by docsify</a>'
-  })

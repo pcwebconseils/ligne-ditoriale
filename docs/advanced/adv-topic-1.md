@@ -1,4 +1,4 @@
-# Advanced Topic 1
+# PArt one
 
 Lorem markdownum voces. Adire nant ingreditur quam evadere dixit caelestum
 meliora. Induitur videndi Timoli videres et *quae*, niteant.
@@ -24,18 +24,20 @@ meliora. Induitur videndi Timoli videres et *quae*, niteant.
 In *nubes pallor potuit* non, parenti auctorem urbis. Viderat at quicquam
 piscator nunc prosunt ponit.
 
-## Fecere conplexa et utque et habetur iacentia
-
+## part two
 Haud rotarum, et hospes et est, remittit tecta. Defecerat mille, perit *tale
-Laomedonque* austri, scissaque incumbens prisci ferunt [ibi cumque
-horror](http://example.com/) gravis.
+Laomedonque* austri, scissaque incumbens prisci ferunt 
+
+[ibi cumquehorror](http://example.com/).
+
+![Octocat](../assets/images/octocat.jpg)
 
 1. Accipit fraterno quantum dicit
 2. Sparsit et tanget in coniunx putares oravit
 3. Fuit et flumina
 4. Inprudens coloque
 
-## Sentiet etiam
+## part 3
 
 In carmen, et quod, satiata, corpore semper mando; murum este *memores*. Si
 felicia paratu voluit, nova illa tamen hanc et pressa caeli Hippolytus tinxit,
@@ -47,7 +49,13 @@ vertit quoque, adde nec!
 Et qua quem, **verba** citus ero favorem, spectare tam, aureae Echionio facti
 virginis nullo. Auras cura tantum, una ibat tecta, mihi erit.
 
-Igitur increpat ululavit capulo: inmenso [moriturae](http://seenly.com/)
+Igitur increpat ululavit capulo: inmenso 
+
+[Miss SEO girl](https://www.miss-seo-girl.com/?target=_blank)
+
+[Assemble](http://assemble.io "Visit Upstage!" "Visit Upstage!")
+
+
 artifices Sidonis loricamque regebat iustius: repetam more labores datae!
 Praeterque truncus face: parte et vestram Aethiopum signum Pelasgi figurae
 nostroque.
