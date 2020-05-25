@@ -14,3 +14,5 @@ text
 ## Définir les règles de rédaction
 text
 ## Trouver des idées de sujets
+text
+[lien utile](https://www.google.com)
