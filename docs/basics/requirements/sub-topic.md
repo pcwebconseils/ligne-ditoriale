@@ -1,4 +1,4 @@
-# Spécial Google
+# Référencement ou positionnement ?
 
 Bien sur il vous faudra au minimum.
 
@@ -23,11 +23,10 @@ gemitusque blandis. Delicta ora ruit circumdet totas palantesque tamen frondibus
 experiar manum Haemonio addidit fluit. Ipso eras erat, ubi est speculabar florem
 iubenti **me latet**; dei cauda Atlante frugum.
 
-1. Viso cum
-2. Manant diris
-3. Enim adverso Talia et interea iurares
-4. Hoc iussit meruisse suum e gerit sub
-5. Sicelidas ait
+1. Conception
+2. Code
+3. Contenu
+4. Célébrité
 
 Flectat fatorum nusquam spernimur cumulum alis flaventibus modo mater felix
 induruit feri et *postes*, velle! Gesserunt ipsa ieiunia trahenti Iris: ad dixit

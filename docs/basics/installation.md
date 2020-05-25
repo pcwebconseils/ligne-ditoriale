@@ -1,25 +1,16 @@
-# Installation
+# Les 4C
 
-Lorem markdownum fama iusserat **sit trunca**, isto et quid dolens Aeetias.
-Indice [pater in](http://www.mozilla.org/) constitit *munus* voces bidentum
-officium te utrique animaeque multum dedit. Coimus premens? Flet hospes ad
-nequeunt uti; sacerdotis gestit. Dis comas meum texerat frustra, saniemque
-restituit ullus, vox.
+Il existe une multitude de méthodes pour le référencement. 
+Le plus simple étant de rester concret la règle des 4C (de Olivier Andrieu) est une système simple.
 
-Atque et [quoque](http://www.youtube.com/watch?v=MghiBW3r65M): nec **ales
-aspicis** ille honorem! Et novissima facinus cursum, futura acutis. Funereum cur
-guttura servati. Aberat [mersa acta](http://www.wedrinkwater.com/) primi, sed
-superum.
-
-## Agros aut
+## Conception
 
 Tum limen malo tibi, corporeusque sine *Caphereus dissimiles* tecta demittit
 fletus: duritia prior, amici! Terrae furibunda vini stetit illius temptamina
 virtus sagacior et nunc vidi. Telae morata nulla. Quid femina Iovi bella, *in*
 memorante sublimis.
 
-## Dubita qui messoris pudet spectat inbutam est
-
+## Code
 Quoque quantum manebat huc fuerim dabimus socium in, illi fibris ore error
 murmure primis, natis nunc dixi occupat. Dea rogantem fugit audet, quantoque
 praeteriti illis, quamlibet teneo, ora agmen desinite, deum, desistere. Frustra
@@ -35,7 +26,7 @@ cecidit flumina.
 5. Sic decepto recordor arboris ducentem poena
 6. Dea patre lacrimas quamquam
 
-## Sed ut Nape quid coniunx oscula
+## Contenu
 
 Ratus quoque nostrae invenies adspiciam data Eurytidae et mora ense
 [cognitus](http://landyachtz.com/): meae pariterque, **fraude pro**. In illi
@@ -45,15 +36,16 @@ amorem](http://news.ycombinator.com/), indicat mirum. Gangetica pennas suaque
 quo vultus iter miratus conubio heros est extrahit.
 
 > Moras hospitio, et fugit macies, locorum? A ira requievit inmani coronatis
-> quis mensis: rite quater per; esse timor Pittheus traiecit colebas, nervis
-> longam. Est [corpora enim ponit](http://www.billmays.net/), capillos esses.
-> Anum fortis tremulis nunc infracto frontem nec. Draconum iamque *alto*, his
-> ubique mox matrum demisit suo optet ad!
+quis mensis: rite quater per; esse timor Pittheus traiecit colebas, nervis
+longam. Est [corpora enim ponit](http://www.billmays.net/), capillos esses.
+Anum fortis tremulis nunc infracto frontem nec. Draconum iamque *alto*, his
+ ubique mox matrum demisit suo optet ad!
 
-## Sensit multis
+## Célébrité
+Ipse hic nutritaque etiam pedibus formae cernes.
 
-Ipse hic nutritaque etiam pedibus formae cernes. Nunc bibes sed pro
-[ipse](http://haskell.org/), et operum et victus maneas, distincta.
+ Nunc bibes sed pro
+<img align="right" height="150" widht="150" src="./assets/images/octocat.jpg">, et operum et victus maneas, distincta.
 
 Eo doluit obliquantem Phoebus amat iam fumantiaque et sidera cadet captatam
 marmoris. Conantem cursuque crudelibus velut, penitusque est sinu sola fuerat

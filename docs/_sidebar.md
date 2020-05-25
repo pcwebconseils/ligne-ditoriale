@@ -1,7 +1,7 @@
 - Introduction
   - [Un peu d'histoire](basics/overview.md)
-  - [spécial Google](basics/requirements/sub-topic.md)
-  - [Installation](basics/installation.md)
+  - [les bases](basics/requirements/sub-topic.md)
+    - [Règle des 4C](basics/installation.md)
 - Un voyage se prépare.
   - [A mettre dans le sac](intermediate/topics-1.md)
   - [La liste des affaires](intermediate/topics-2.md)
