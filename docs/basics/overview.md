@@ -1,5 +1,5 @@
-# Voyage au centre de référencement
-## Un peu d'histoire. 
+# Définir sa ligne éditoriale ? 
+## Etape 1
 L'histoire du web.
 > [Histoire du web](https://home.cern/fr/science/computing/birth-web/short-history-web)
 
