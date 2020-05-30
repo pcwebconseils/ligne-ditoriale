@@ -4,5 +4,6 @@
   - [En résumé](basics/resume.md)
 
 - **Liens utiles**
-  - 
+  - [Sites, livres](intermediate/topics-1.md)
+
 
