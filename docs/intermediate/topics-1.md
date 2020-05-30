@@ -5,6 +5,9 @@
 - [Wearethewords](https://www.wearethewords.com/dossier-ecriture-web-fondamentaux-bonnes-pratiques/) Wearethewords reste un référence dans la rédaction web.
 - [Anthedesign](https://www.anthedesign.fr/redaction-web/ecriture-web/) Anthedesign, agence de communication, leur blog est vraiment intéressant. 
 - [Ecrire pour le web](https://www.ecrirepourleweb.com/dossiers/guide-ultime-de-lecriture-web/)Tout est dans le titre.
+
+## Une vidéo. 
+- [Yellow dolphins](https://youtu.be/F3lgsnH-Kf0)
 ## Lectures intéressantes
 - [rédiger pour le web](https://www.amazon.fr/Bien-rédiger-pour-Web-référencement-ebook/dp/B073GC432J/ref=sr_1_1?dchild=1&keywords=rediger+pour+le+web&qid=1590659310&sr=8-1)
 >Best-sellers à posséder ou à consulter avant toute mise en place de stratégie éditoriale.
